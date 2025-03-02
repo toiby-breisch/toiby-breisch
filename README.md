@@ -1,5 +1,5 @@
-Completed studies in Computer Science through an external program at the Lev Institute, as well as an advanced Full Stack Web Development Bootcamp, specializing in modern full stack technologies. Acquired practical experience in building comprehensive end-to-end projects, emphasizing robust development practices, security, and the integration of machine learning.
-Looking for a developer position to apply my programming expertise in creating high-quality software solutions tailored to client requirements.  
+Hello! I'm Toiby Breisch, a passionate Full Stack Web Developer with a strong foundation in Computer Science and modern web development technologies. I have completed my studies in Computer Science through an external program at the Lev Institute, along with an advanced Full Stack Web Development Bootcamp. Throughout my training, I specialized in building comprehensive, high-quality end-to-end applications.
+
 
 <!--
 **toiby-breisch/toiby-breisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
