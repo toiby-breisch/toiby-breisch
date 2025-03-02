@@ -1,5 +1,6 @@
-## Hi there 👋
-toiby
+Completed studies in Computer Science through an external program at the Lev Institute, as well as an advanced Full Stack Web Development Bootcamp, specializing in modern full stack technologies. Acquired practical experience in building comprehensive end-to-end projects, emphasizing robust development practices, security, and the integration of machine learning.
+Looking for a developer position to apply my programming expertise in creating high-quality software solutions tailored to client requirements.  
+
 <!--
 **toiby-breisch/toiby-breisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
